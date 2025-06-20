@@ -34,7 +34,7 @@ pkg install python git -y
 rm -rf cupp
 git clone https://github.com/DARK-NET-403/cupp
 cd cupp
-python3 cupp.py -h
+python3 cupp.py 
 ```
 
 💡 **Run interactively:**
